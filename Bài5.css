@@ -1,0 +1,15 @@
+table {
+  border-collapse: collapse;
+  width: 430px;
+}
+
+th,
+td {
+  border: 1px solid;
+  padding: 8px 12px;
+}
+
+.color-box {
+  width: 200px;
+  height: 25px;
+}
